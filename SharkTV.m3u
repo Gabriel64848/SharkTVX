@@ -19338,3 +19338,41 @@ http://shd12.oneplayer.site/token/SHD12/254391/1x2.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tbYRflB.png" group-title="Dorama | THE TRUNK S01",S01 E01
 http://shd12.oneplayer.site/token/SHD12/230777/1x1.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tbYRflB.png" group-title="Dorama | 
+#EXTM3U
+#EXTINF:-1 tvg-id="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo
+http://79.127.238.228:14217/
+#EXTINF:-1 tvg-id="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo
+https://gerenciar.vivatele.com:443/viva_padrao/viva2384/1
+#EXTINF:-1 tvg-id="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo
+http://45.134.141.162:3366/stream/globo/rj/master720.m3u8
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",GLOBO SÃO PAULO
+http://79.127.238.228:14211/
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",GLOBO SÃO PAULO
+https://dpetftvwrc.dpetftvwrc.workers.dev/globosp/index.m3u8
+#EXTINF:-1 tvg-id="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo
+http://45.134.141.162:3366/stream/globo/cam/master1080.m3u8
+#EXTINF:-1 tvg-id="Globo" tvg-logo="https://i.imgur.com/zldYz3t.png" group-title="Canais | GLOBO",Globo
+http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/937
+#EXTINF:-1 tvg-id="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo
+http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/301
+#EXTINF:-1 tvg-id="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo
+https://dpetftvwrc.dpetftvwrc.workers.dev/globomg/index.m3u8
+#EXTINF:-1 tvg-id="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo
+http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/278
+#EXTINF:-1 tvg-id="Globo" tvg-logo="https://i.imgur.com/0Pb8NOA.png" group-title="Canais | GLOBO",Globo
+http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
+#EXTINF:-1 tvg-id="Globo" tvg-logo="https://i.imgur.com/KYuhWGi.png" group-title="Canais | GLOBO",Globo
+http://45.134.141.162:3366/stream/globo/ce1/master720.m3u8
+#EXTINF:-1 tvg-id="Globo" tvg-logo="https://i.imgur.com/KYuhWGi.png" group-title="Canais | GLOBO",Globo
+http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/30968
+#EXTINF:-1 tvg-id="Globo" tvg-logo="https://i.imgur.com/Lk493tt.png" group-title="Canais | GLOBO",Globo
+http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/321
+#EXTINF:-1 tvg-id="Globo" tvg-logo="https://i.imgur.com/gzb8eGf.png" group-title="Canais | GLOBO",Globo
+http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/891
+#EXTINF:-1 tvg-id="Globo" tvg-logo="https://i.imgur.com/gzb8eGf.png" group-title="Canais | GLOBO",Globo
+http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/895
+#EXTINF:-1 tvg-id="Globo" tvg-logo="https://i.imgur.com/wIgWfEg.png" group-title="Canais | GLOBO",Globo
+http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/333
+#EXTINF:-1 tvg-id="Globo" tvg-logo="https://i.imgur.com/wIgWfEg.png" group-title="Canais | GLOBO",Globo
+http://45.134.141.162:3366/stream/globo/es2/master1080.m3u8
+
